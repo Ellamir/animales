@@ -1,0 +1,147 @@
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+background: black;
+font-family: 'Raleway', sans-serif;
+color: #ffffff;
+}
+h1 {
+opacity: 1;
+text-align: center;
+font-weight: 400;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+display: block;
+padding: 5px;
+vertical-align: middle;
+}
+
+header{
+  width: 100%;
+
+}
+/* .hero {
+left: 0px;
+width: 1024px;
+height: 730px;
+display: block;
+background: url('../img/bg-header.jpg'); 0% 0% no-repeat padding-box;
+}
+*/
+
+.centrado {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.descripcion {
+  text-align: left;
+  background: #000000;
+  color: #ffffff;
+  padding: 3.125rem;
+  white-space: nowrap;
+  display: block;
+}
+
+.descripcion p {
+line-height:1.3em; margin-bottom:2.2em;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: 0;
+  color: #FFFFFF;
+  opacity: 1;
+  padding-top: 35px;
+  padding-bottom: 40px;
+}
+
+.desc-img, .desc-txt {
+  display: inline-block;
+}
+
+.desc-img{
+  width: 45%;
+  vertical-align: middle;
+  align-content: right;
+}
+
+.desc-txt  {
+  width: 52.5%;
+  vertical-align: middle;
+  margin-left: 2.5%;
+  white-space: normal;
+  font-size: 16px;
+  padding-right: 50px;
+}
+.franja {
+  color: #000000;
+    text-align: center;
+    padding: 1.25rem 4rem;
+    position: fixed;
+    width: 100vw;
+}
+
+.cafe, footer {
+  background-color: #1E1A13;
+  display: block;
+  vertical-align: middle;
+}
+
+section, footer {
+  margin-top: 4.5rem;
+}
+
+footer {
+  padding: 1.125rem;
+  align-content: center;
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+.stat {
+  padding-bottom: 25px;
+  display: inline-block;
+  width: 30%;
+
+}
+.stat p
+{
+line-height:1; margin-bottom:15px;
+font-size: 25px; font-weight: 300;
+}
+
+.fotito {
+  padding: 15px;
+  display: inline-block;
+  align-content: center;
+}
+svg {
+  vertical-align: middle;
+  padding-bottom: 20px;
+}
+a:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #ffffff;
+}
